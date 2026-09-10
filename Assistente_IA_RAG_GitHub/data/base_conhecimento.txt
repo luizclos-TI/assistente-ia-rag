@@ -1,0 +1,19 @@
+BASE DE CONHECIMENTO — CENTRAL DE SUPORTE
+
+Atendimento:
+O atendimento funciona de segunda a sexta-feira, das 08:00 às 18:00.
+
+Abertura de chamados:
+Para solicitar suporte, o usuário deve informar nome, setor, descrição do problema e, quando aplicável, uma captura de tela ou mensagem de erro.
+
+Prioridade:
+Chamados críticos são aqueles que impedem uma atividade essencial. Chamados de alta prioridade afetam uma equipe ou serviço importante. Chamados normais afetam uma funcionalidade sem interromper completamente o trabalho.
+
+Prazo:
+Chamados críticos devem ser analisados o mais rapidamente possível. Chamados de alta prioridade devem receber análise inicial no mesmo dia útil. Chamados normais podem ser tratados conforme a fila de atendimento.
+
+Segurança:
+Nunca envie senhas, tokens ou chaves de API em chamados. Informações sensíveis devem ser removidas de capturas de tela antes do envio.
+
+Escalonamento:
+Quando o suporte inicial não consegue resolver o problema, o chamado deve ser documentado com os testes realizados e encaminhado para a equipe responsável.
